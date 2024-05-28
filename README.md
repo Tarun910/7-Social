@@ -28,13 +28,17 @@ To use 7-Social, follow these steps:
 1 Fork the Repository: Click the "Fork" button at the top right of the repository page to create your own copy of the project.
 
 2 Clone the Repository: Clone your forked repository to your local machine using the following command:
+
 `git clone https://github.com/your-username/7-social.git`
 
 3 Install Dependencies: Navigate into the project directory and install the required dependencies using npm or yarn:
+
 `cd 7-social`
+
 `npm install`
 
 4 Start the Application: Once the dependencies are installed, start the application using npm or yarn:
+
 `npm start`
 
 # Contributing:
